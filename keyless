@@ -1,7 +1,7 @@
 --Made by Waguriscripts, Enjoy :D
 --Beta version 1.1
 
-loadstring(game:HttpGet('https://cdn.sourceb.in/bins/odd6BjkZYW/0'))()
+loadstring(game:HttpGet('https://cdn.sourceb.in/bins/Vw8S34T3lE/0'))()
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
